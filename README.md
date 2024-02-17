@@ -1,3 +1,24 @@
+# installing Chocolatey:
+![installing Chocolatey](1.png)
+
+# installing Git Client:
+![Git client](2.png)
+
+# Virtual Box 
+![Virtual Box](3.png)
+
+# installing Virtual Box:
+![Installing Virtual Box](4.png)
+![alt text](5.png)
+![alt text](6.png)
+![alt text](7.png)
+
+# installing Packer:
+![Installing Packer](8.png)
+
+# Oh-My-Git Tutorial:
+![Oh-My-Git Tutorial](9.png)
+![alt text](10.png)
 # projitha
 Private repo for ITM class work
 # Your Name 
